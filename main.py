@@ -1,4 +1,4 @@
-class RomanNumberConverter:
+class Solution:
     def __init__(self):
         self.converter = {'I': 1,
                           'V': 5,
